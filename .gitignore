@@ -1,0 +1,17 @@
+# Archivos de configuración con credenciales
+config.json
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+env/
+
+# Otros
+.DS_Store
+
+Facturas/
+Resultados/
