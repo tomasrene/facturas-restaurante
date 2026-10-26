@@ -1,0 +1,3 @@
+fecha,proveedor,monto_sin_iva,iva,monto_total,archivo
+2026-01-05,Proveedor de ejemplo A,100.00,21.00,121.00,factura-ficticia-01.pdf
+2026-01-12,Proveedor de ejemplo B,50.00,5.00,55.00,factura-ficticia-02.pdf
