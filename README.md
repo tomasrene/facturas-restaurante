@@ -1,10 +1,10 @@
 # Facturas de restaurante
 
-Pruebas para pasar de facturas en PDF o imagen a datos que se puedan revisar y comparar. El caso de origen es **Flama**.
+Flama era mi bar de vinos. Al revisar los borradores de IVA encontrábamos errores una y otra vez; en una ocasión, la diferencia fue de cientos de euros. Para poder contrastar el borrador había que procesar todas las facturas de los proveedores y hacer las cuentas por nuestra cuenta.
 
-El script convierte una página del PDF a imagen, solicita una extracción estructurada a un modelo con visión y prepara datos para una planilla. Los ensayos posteriores exploraron OCR y comparación con registros de compras.
+De ahí salió esta herramienta: pasar facturas en PDF o imagen a datos que se puedan ordenar, revisar y comparar. El script original usa un modelo con visión; los ensayos posteriores exploraron OCR y comparación con registros de compras.
 
-**Estado: exploración histórica.** La extracción requiere revisión contra el documento original. Este repositorio no constituye un sistema contable integrado.
+**Estado: exploración histórica.** Los datos extraídos requieren revisión contra el documento original.
 
 ## Qué hay acá
 
